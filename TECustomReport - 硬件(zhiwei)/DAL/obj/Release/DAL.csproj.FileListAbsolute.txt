@@ -1,0 +1,18 @@
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\DAL.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\DBUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\Models.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\DBUtility.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Release\Models.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Release\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Release\DAL.pdb
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\DAL.pdb
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\DBUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\Models.dll
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\DBUtility.pdb
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\bin\Release\Models.pdb
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\obj\Release\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport - 副本\DAL\obj\Release\DAL.pdb
