@@ -1,0 +1,5 @@
+D:\TechExcel\Report\TEReport\TECustomReport\ReportUtility\bin\Debug\ReportUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\ReportUtility\bin\Debug\ReportUtility.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\ReportUtility\obj\Debug\ReportUtility.csprojResolveAssemblyReference.cache
+D:\TechExcel\Report\TEReport\TECustomReport\ReportUtility\obj\Debug\ReportUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\ReportUtility\obj\Debug\ReportUtility.pdb

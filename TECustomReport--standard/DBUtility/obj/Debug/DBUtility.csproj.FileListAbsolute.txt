@@ -1,0 +1,4 @@
+D:\TechExcel\Report\TEReport\TECustomReport\DBUtility\bin\Debug\DBUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DBUtility\bin\Debug\DBUtility.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DBUtility\obj\Debug\DBUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DBUtility\obj\Debug\DBUtility.pdb

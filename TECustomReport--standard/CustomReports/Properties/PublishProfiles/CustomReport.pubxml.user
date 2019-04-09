@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Release</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/31/2019 11:03:50</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>01/31/2019 11:03:50</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>02/21/2019 13:11:02</publishTime>
+    </File>
+    <File Include="bin/CustomReports.dll">
+      <publishTime>02/21/2019 13:11:07</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>02/21/2019 13:11:01</publishTime>
+    </File>
+    <File Include="bin/DBUtility.dll">
+      <publishTime>02/21/2019 13:11:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Models.dll">
+      <publishTime>02/21/2019 13:11:00</publishTime>
+    </File>
+    <File Include="bin/ReportUtility.dll">
+      <publishTime>02/21/2019 13:11:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="CSS/calendar.gif">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/chosen-sprite%402x.png">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/chosen-sprite.png">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/chosen.css">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/Default.css.exclude">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/jquery.multiselect.css">
+      <publishTime>02/14/2019 08:59:47</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/animated-overlay.gif">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-icons_222222_256x240.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-icons_228ef1_256x240.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-icons_ef8c08_256x240.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-icons_ffd27a_256x240.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/images/ui-icons_ffffff_256x240.png">
+      <publishTime>02/14/2019 09:01:20</publishTime>
+    </File>
+    <File Include="CSS/ui-lightness/jquery-ui-1.10.3.custom.min.css">
+      <publishTime>02/14/2019 09:00:42</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/14/2019 08:36:24</publishTime>
+    </File>
+    <File Include="ECharts/echarts.common.min.js">
+      <publishTime>02/19/2019 14:22:28</publishTime>
+    </File>
+    <File Include="ECharts/echarts.js">
+      <publishTime>02/19/2019 13:12:18</publishTime>
+    </File>
+    <File Include="Images/abnormal.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/arrow.png">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/Distribution.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/FolderClose.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/FolderOpen.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/icon_Collapse.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/icon_Expand.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/leftBg.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/leftBg1.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/List.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/loading.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/loading_2.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/loading_3.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/mainBg.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/middleBg.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/normal.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/rightBg.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/saveAsImage.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/statusdelay.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/statusok.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/tableTopBg.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/Thumbs.db">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/toExcel.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/Trend.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="Images/warning.gif">
+      <publishTime>02/14/2019 09:09:23</publishTime>
+    </File>
+    <File Include="JS/chosen.jquery.min.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/FrameLoadingIndicator.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/jquery-3.2.1.min.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/jquery-ui-1.10.3.custom.min.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/jquery.multiselect.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/jquery.ui.datepicker-zh-CN.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/KDChart.js">
+      <publishTime>01/31/2019 16:49:07</publishTime>
+    </File>
+    <File Include="JS/Report2.js">
+      <publishTime>02/19/2019 11:14:07</publishTime>
+    </File>
+    <File Include="JS/Report21.js">
+      <publishTime>02/21/2019 11:43:01</publishTime>
+    </File>
+    <File Include="JS/Report8.js">
+      <publishTime>02/19/2019 16:12:48</publishTime>
+    </File>
+    <File Include="JS/ReportLeftTree.js">
+      <publishTime>02/20/2019 14:22:12</publishTime>
+    </File>
+    <File Include="null.html">
+      <publishTime>02/14/2019 08:48:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/31/2019 13:15:53</publishTime>
+    </File>
+    <File Include="Report1.aspx">
+      <publishTime>01/31/2019 11:22:03</publishTime>
+    </File>
+    <File Include="Report2.aspx">
+      <publishTime>02/14/2019 09:34:39</publishTime>
+    </File>
+    <File Include="Report21.aspx">
+      <publishTime>02/20/2019 15:47:46</publishTime>
+    </File>
+    <File Include="Report3.aspx">
+      <publishTime>02/19/2019 16:41:32</publishTime>
+    </File>
+    <File Include="Report8.aspx">
+      <publishTime>02/19/2019 15:47:26</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/js/kendo.all.min.js">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/js/kendo.all.min.js.map">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.common.min.css">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.common.min.css.map">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.default.min.css">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.default.min.css.map">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.default.mobile.min.css">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportResource/telerik.kendoui/styles/kendo.default.mobile.min.css.map">
+      <publishTime>09/13/2017 10:53:10</publishTime>
+    </File>
+    <File Include="ReportTree.aspx">
+      <publishTime>02/20/2019 14:29:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/21/2019 13:11:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

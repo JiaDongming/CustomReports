@@ -1,0 +1,9 @@
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\DAL.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\DBUtility.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\Models.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\DBUtility.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\bin\Debug\Models.pdb
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Debug\DAL.dll
+D:\TechExcel\Report\TEReport\TECustomReport\DAL\obj\Debug\DAL.pdb
